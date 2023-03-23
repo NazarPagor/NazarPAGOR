@@ -1,7 +1,8 @@
 [![Header](https://github.com/NazarPagor/NazarPAGOR/blob/main/assets/pablo.png)](https://github.com/NazarPagor)
 
 
-## Experienced Software Engineer with a demonstrated history of working in the information technology 
+## Full-stack Developer 
+Experienced Software Engineer with a demonstrated history of working in the information technology 
 and services industry. 
 Skilled in SPA frameworks for front-end development, also have knowledge for 
 work with databases, and backend development.
